@@ -1,0 +1,34 @@
+.material-icons.md-32 { font-size: 32px; }
+
+.material-icons.md-light { color: rgba(255, 255, 255, .5); }
+
+.texte1 {
+
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+
+.display-3 {
+
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+
+body, html {
+    height: 100%;
+}
+.bg-jumbotron {
+    /* The image used */
+    background-image: url("jumbo.jpg");
+    min-height: 840px; 
+    margin-top: 15px;
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
